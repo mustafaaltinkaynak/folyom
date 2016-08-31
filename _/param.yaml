@@ -1,0 +1,16 @@
+---
+author: 'Mustafa ALTINKAYNAK'
+description: 'Mustafa ALTINKAYNAK kimdir, nedir?'
+email: 'mustafa@altinkaynak.biz'
+url: 'www.altinkaynak.biz'
+domain: ''
+intro: ''
+googleanalytics: ''
+googleplus: ''
+brand: default
+landslide: "/usr/bin/landslide"
+css: _/default.css
+js: _/default.js
+theme: light
+indextemplate: _/index.erb
+foliotemplate: _/default.erb
